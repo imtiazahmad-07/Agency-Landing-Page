@@ -1,0 +1,14 @@
+.services{
+    border-bottom: 2px solid rgb(38, 38, 226);
+    border-bottom-width: 5px;
+}
+
+.background-image1{
+    bottom: 20%;
+    opacity: 0.5;
+}
+.background-image2{
+    bottom: 15%;
+    z-index: -2;
+    opacity: 0.5;
+}
